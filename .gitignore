@@ -1,0 +1,13 @@
+*.class
+
+.project
+.classpath
+
+# Package Files #
+*.war
+*.ear
+*.DS_Store
+.settings/*
+.idea
+*.iml
+*.eml
